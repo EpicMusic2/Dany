@@ -1,5 +1,5 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
+token=NTc2MTAyMzg3MzA4MTY3MTg5.XNRoEg.4znHcJ-iaTGeDOGlQfrKX6ofVio
+owner=326131905743421440 
 prefix=2
 game= 2help
 stayinchannel=false
